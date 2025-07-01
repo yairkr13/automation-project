@@ -1,0 +1,9 @@
+.idea/
+*.iml
+*.log
+*.class
+target/
+.vscode/
+*.pyc
+.DS_Store
+.env
